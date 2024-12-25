@@ -1,3 +1,5 @@
+// XIAO_ESP32C3 //
+
 #include <FastLED.h>
 
 #define LED_PIN 10
